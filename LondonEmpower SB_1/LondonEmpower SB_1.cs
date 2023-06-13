@@ -68,7 +68,7 @@ namespace LondonEmpower_SB_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("hello bt tower");
+			engine.GenerateInformation("hello bt tower again");
 		}
 	}
 }
